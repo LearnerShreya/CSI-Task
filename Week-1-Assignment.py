@@ -47,3 +47,51 @@ def show_all_patterns(n):
 if __name__ == "__main__":
     size = int(input("Enter the size of the pattern: "))
     show_all_patterns(size)
+
+
+    
+# OUTPUT:
+
+# Enter the size of the pattern: 5
+
+# Left Lower Triangle:
+# * 
+# * * 
+# * * *
+# * * * *
+# * * * * *
+
+# Right Lower Triangle:
+#         *
+#       * *
+#     * * *
+#   * * * *
+# * * * * *
+
+# Left Upper Triangle:
+# * * * * *
+# * * * *
+# * * *
+# * *
+# *
+
+# Right Upper Triangle:
+# * * * * *
+#   * * * *
+#     * * *
+#       * *
+#         *
+
+# Full Pyramid:
+#         *
+#       * * *
+#     * * * * *
+#   * * * * * * *
+# * * * * * * * * *
+
+# Inverted Pyramid:
+# * * * * * * * * *
+#   * * * * * * *
+#     * * * * *
+#       * * *
+#         *
