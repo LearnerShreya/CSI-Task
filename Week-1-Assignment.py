@@ -1,52 +1,67 @@
 # Print the Triangle pattern
 # Create lower triangular, upper triangular and pyramid containing the "*" character.
 
-def left_lower_triangle(n):
-    for i in range(1, n + 1):
-        print("* " * i)
 
-def right_lower_triangle(n):
-    for i in range(1, n + 1):
-        print("  " * (n - i) + "* " * i)
+class TrianglePatterns:
+    """
+    Generates and prints various star (*) patterns including different triangles and pyramids.
+    The size parameter controls the dimensions of the patterns.
+    """
 
-def left_upper_triangle(n):
-    for i in range(n):
-        print("* " * (n - i))
+    @staticmethod
+    def left_lower_triangle(n):
+        for i in range(1, n + 1):
+            print("* " * i)
 
-def right_upper_triangle(n):
-    for i in range(n):
-        print("  " * i + "* " * (n - i))
+    @staticmethod
+    def right_lower_triangle(n):
+        for i in range(1, n + 1):
+            print("  " * (n - i) + "* " * i)
 
-def full_pyramid(n):
-    for i in range(1, n + 1):
-        print("  " * (n - i) + "* " * (2 * i - 1))
+    @staticmethod
+    def left_upper_triangle(n):
+        for i in range(n):
+            print("* " * (n - i))
 
-def inverted_pyramid(n):
-    for i in range(n, 0, -1):
-        print("  " * (n - i) + "* " * (2 * i - 1))
+    @staticmethod
+    def right_upper_triangle(n):
+        for i in range(n):
+            print("  " * i + "* " * (n - i))
 
-def show_all_patterns(n):
-    print("\nLeft Lower Triangle:")
-    left_lower_triangle(n)
+    @staticmethod
+    def full_pyramid(n):
+        for i in range(1, n + 1):
+            print("  " * (n - i) + "* " * (2 * i - 1))
 
-    print("\nRight Lower Triangle:")
-    right_lower_triangle(n)
+    @staticmethod
+    def inverted_pyramid(n):
+        for i in range(n, 0, -1):
+            print("  " * (n - i) + "* " * (2 * i - 1))
 
-    print("\nLeft Upper Triangle:")
-    left_upper_triangle(n)
+    @classmethod
+    def show_all_patterns(cls, n):
+        print("\nLeft Lower Triangle:")
+        cls.left_lower_triangle(n)
 
-    print("\nRight Upper Triangle:")
-    right_upper_triangle(n)
+        print("\nRight Lower Triangle:")
+        cls.right_lower_triangle(n)
 
-    print("\nFull Pyramid:")
-    full_pyramid(n)
+        print("\nLeft Upper Triangle:")
+        cls.left_upper_triangle(n)
 
-    print("\nInverted Pyramid:")
-    inverted_pyramid(n)
+        print("\nRight Upper Triangle:")
+        cls.right_upper_triangle(n)
+
+        print("\nFull Pyramid:")
+        cls.full_pyramid(n)
+
+        print("\nInverted Pyramid:")
+        cls.inverted_pyramid(n)
+
 
 if __name__ == "__main__":
     size = int(input("Enter the size of the pattern: "))
-    show_all_patterns(size)
+    TrianglePatterns.show_all_patterns(size)
 
 
     
