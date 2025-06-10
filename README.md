@@ -10,7 +10,7 @@ This repository contains weekly Data Science assignments completed during my int
 
 | Week        | Title                   | Status |
 |-------------|--------------------------|--------|
-| Week 1      | Triangle Pattern Printing| ✅ Done |
+| Week 1      | Triangle Pattern         | ✅ Done |
 | Week 2      |                          | 🔜      |
 | Week 3      |                          | 🔜      |
 | Week 4      |                          | 🔜      |
