@@ -8,18 +8,19 @@ This repository contains weekly Data Science assignments completed during my int
 
 ## 📁 Weekly Assignment Progress
 
-| Week        | Title                   | Status |
-|-------------|--------------------------|--------|
-| Week 1      | Triangle Pattern         | ✅ Done |
-| Week 2      |                          | 🔜      |
-| Week 3      |                          | 🔜      |
-| Week 4      |                          | 🔜      |
-| Week 5      |                          | 🔜      |
-| Week 6      |                          | 🔜      |
-| Week 7      |                          | 🔜      |
-| Week 8      |                          | 🔜      |
+| Week        | Title                         | Status   |
+|-------------|-------------------------------|----------|
+| Week 1      | Triangle Pattern               | ✅ Done  |
+| Week 2      | Singly Linked List (OOP)       | ✅ Done  |
+| Week 3      |                               | 🔜       |
+| Week 4      |                               | 🔜       |
+| Week 5      |                               | 🔜       |
+| Week 6      |                               | 🔜       |
+| Week 7      |                               | 🔜       |
+| Week 8      |                               | 🔜       |
 
 ---
+
 
 ## 🛠 Tech Stack
 
