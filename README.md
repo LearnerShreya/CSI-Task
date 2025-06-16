@@ -4,7 +4,6 @@
 
 This repository contains weekly Data Science assignments completed during my internship at **Celebal Technology**. Each task reflects core concepts in Python, data analysis, and machine learning.
 
----
 
 ## 📁 Weekly Assignment Progress
 
