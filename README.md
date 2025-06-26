@@ -10,9 +10,9 @@ This repository contains weekly Data Science assignments completed during my int
 
 | Week        | Title                         | Status   |
 |-------------|-------------------------------|----------|
-| Week 1      | Triangle Pattern               | ✅ Done  |
-| Week 2      | Singly Linked List (OOP)       | ✅ Done  |
-| Week 3      |                               | 🔜       |
+| Week 1      |                               | ✅ Done  |
+| Week 2      |                               | ✅ Done  |
+| Week 3      |                               | ✅ Done  |
 | Week 4      |                               | 🔜       |
 | Week 5      |                               | 🔜       |
 | Week 6      |                               | 🔜       |
