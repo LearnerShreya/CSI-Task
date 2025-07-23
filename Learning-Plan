@@ -1,0 +1,230 @@
+
+
+# 🐍 Python and Data Science Learning Plan
+
+---
+
+## 📅 Week 1 – Introduction to Python
+
+### 🔹 Topics Covered
+
+* [What is Python?](https://www.youtube.com/watch?v=Y8Tko2YC5hA)
+* [Installing Python](https://www.youtube.com/watch?v=C3bOxcILGu4)
+* [Basic syntax](https://www.youtube.com/watch?v=2fXAmsLIBcM)
+* [Lists](https://www.w3schools.com/python/python_lists.asp)
+* [Tuples](https://www.w3schools.com/python/python_tuples.asp)
+* [Dictionaries](https://www.w3schools.com/python/python_dictionaries.asp)
+* [Sets](https://www.w3schools.com/python/python_sets.asp)
+* [Strings](https://www.w3schools.com/python/python_strings.asp)
+* [Conditional statements](https://www.w3schools.com/python/python_conditions.asp)
+* [Loops](https://www.w3schools.com/python/python_while_loops.asp)
+* [Break and continue statements](https://www.w3schools.in/python/break-and-continue)
+* [Error handling](https://www.w3schools.com/python/python_try_except.asp)
+* [Creating and using functions](https://www.w3schools.com/python/python_functions.asp)
+* [Importing modules](https://www.w3schools.com/python/python_modules.asp)
+* [Creating and using custom modules](https://www.w3schools.com/python/python_modules.asp)
+
+---
+
+### 📘 Assignment:
+
+**Print the Triangle pattern**
+
+Create lower triangular, upper triangular and pyramid containing the `"*"` character.
+
+---
+
+---
+
+## 📅 Week 2 – Object-Oriented Programming in Python
+
+### 🔹 Topics Covered
+
+* [Classes and objects](https://www.w3schools.com/python/python_classes.asp)
+* [Inheritance and polymorphism](https://www.w3schools.com/python/python_inheritance.asp)
+* [Encapsulation](https://www.geeksforgeeks.org/python/encapsulation-in-python/)
+* [Special methods](https://www.w3schools.com/python/python_ref_functions.asp)
+* [Opening and reading files](https://www.w3schools.com/python/python_file_handling.asp)
+* [Writing to files](https://www.w3schools.com/python/python_file_write.asp)
+* [Working with CSV and JSON files](https://www.w3schools.com/python/python_json.asp)
+* [venv](https://docs.python.org/3/tutorial/venv.html)
+* [pip](https://www.w3schools.com/python/python_pip.asp)
+* [pip freeze](https://pip.pypa.io/en/stable/cli/pip_freeze/)
+* [Flask web framework](https://www.tutorialspoint.com/flask/index.htm)
+* [Django web framework](https://www.w3schools.com/django/)
+
+---
+
+### 📘 Assignment:
+
+**Implement a Linked List in Python Using OOP and Delete the Nth Node**
+
+Create a Python program that implements a singly linked list using Object-Oriented Programming (OOP) principles. Your implementation should include the following:
+A Node class to represent each node in the list.
+A LinkedList class to manage the nodes, with methods to:
+
+* Add a node to the end of the list
+* Print the list
+* Delete the nth node (where n is a 1-based index)
+
+Include exception handling to manage edge cases such as:
+
+* Deleting a node from an empty list
+* Deleting a node with an index out of range
+
+Test your implementation with at least one sample list.
+
+---
+
+---
+
+## 📅 Week 3 – Data Science with Python
+
+### 🔹 Topics Covered
+
+* [NumPy](https://www.youtube.com/watch?v=9JUAPgtkKpI)
+* [Pandas](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS&t=3s)
+* [Matplotlib](https://www.w3schools.com/python/matplotlib_intro.asp)
+* [What is Machine learning, Types of Machine learning, Applications of ML, Life Cycle of ML](https://www.geeksforgeeks.org/machine-learning/ml-machine-learning/)
+* [Matrices, Vectors, Matrix multiplication, Transpose, Determinant, Eigenvalues and eigenvectors, Singular value decomposition](https://www.geeksforgeeks.org/data-science/linear-algebra-required-for-data-science/)
+* [Probability Distributions, Conditional Probability, Bayes' Theorem, Central Limit Theorem, Hypothesis Testing, Confidence Intervals, Maximum Likelihood Estimation, Bayesian Inference](https://www.khanacademy.org/math/probability)
+* [Descriptive Statistics, Inferential Statistics, Correlation, Regression Analysis, Analysis of Variance, Non-parametric Tests, Time Series Analysis, Experimental Design, Statistical Modeling, Statistical Inference, Bayesian Statistics](https://www.khanacademy.org/math/statistics-probability/analyzing-categorical-data)
+* [Data Cleaning, Data Transformation, Data Normalization, Data Scaling, Data Encoding, Data Imputation, Handling Missing Data, Data Reduction, Data Integration, Data Sampling](https://www.youtube.com/watch?v=tDu_KIlXaB0)
+
+---
+
+### 📘 Assignment:
+
+**Data Visualization**
+
+Take Any dataset of your choice and do the visualization
+**Resources**:
+
+* [YouTube: Data Visualization Tutorial](https://www.youtube.com/watch?v=0P7QnIQDBJY)
+* [Kaggle: Titanic Dataset EDA](https://www.kaggle.com/code/junaiddata35/titanic-dataset-exploratory-data-analysis-eda)
+
+---
+
+---
+
+## 📅 Week 4 – Feature Engineering
+
+### 🔹 Topics Covered
+
+* [Feature Selection, Feature Extraction, Feature Encoding, Dimensionality Reduction, Principal Component Analysis, Linear Discriminant Analysis, t-SNE, Autoencoders](https://gayathri-siva.medium.com/dimensionality-reduction-feature-selection-and-feature-extraction-28c732818e96)
+* [Train-Test Split, Cross-validation, Hyperparameter Tuning, Grid Search, Random Search](https://medium.com/@datasciencewizards/a-guide-to-data-splitting-in-machine-learning-49a959c95fa1)
+* [Confusion Matrix, Accuracy, Precision, Recall, F1-score, ROC curve, AUC score, Mean Squared Error, Root Mean Squared Error, R-squared](https://medium.com/analytics-vidhya/machine-learning-metrics-in-simple-terms-d58a9c85f9f6)
+
+---
+
+### 📘 Assignment:
+
+**Exploratory Data Analysis (EDA)**
+
+Conduct an in-depth Exploratory Data Analysis on a complex dataset. Focus on understanding data distributions, identifying missing values, detecting outliers, and uncovering relationships between variables. Utilize visualizations like histograms, box plots, and heatmaps to support your findings.
+**Resources**:
+
+* [Kaggle: Titanic Dataset EDA](https://www.kaggle.com/code/junaiddata35/titanic-dataset-exploratory-data-analysis-eda)
+
+---
+
+---
+
+## 📅 Week 5 – Regression
+
+### 🔹 Topics Covered
+
+* [Simple Linear Regression, Multiple Linear Regression, Polynomial Regression, Ridge Regression, Lasso Regression, ElasticNet Regression](https://www.geeksforgeeks.org/machine-learning/types-of-regression-techniques/)
+* [Logistic Regression, Naive Bayes, k-Nearest Neighbors, Decision Trees, Random Forest, Support Vector Machines](https://www.analyticsvidhya.com/blog/2021/05/5-classification-algorithms-you-should-know-introductory-guide/)
+
+---
+
+### 📘 Assignment:
+
+**House Price Prediction**
+
+Data Preprocessing and feature engineering
+**Resources**:
+
+* [Kaggle: House Prices – Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data)
+
+---
+
+---
+
+## 📅 Week 6 – Clustering
+
+### 🔹 Topics Covered
+
+* [K-Means Clustering, Hierarchical Clustering, DBSCAN, Gaussian Mixture Models](https://medium.com/@datasciencewizards/machine-learning-that-all-data-scientists-should-know/)
+* [Bagging, Boosting, Stacking, Random Forest, Gradient Boosting](https://www.geeksforgeeks.org/machine-learning/a-comprehensive-guide-to-ensemble-learning/)
+* [L1 Regularization, L2 Regularization, ElasticNet Regularization](https://www.youtube.com/watch?v=VqKq78PVO9g&t=11s)
+
+---
+
+### 📘 Assignment:
+
+**Model Evaluation and Hyperparameter Tuning**
+
+Train multiple machine learning models and evaluate their performance using metrics such as accuracy, precision, recall, and F1-score. Implement hyperparameter tuning techniques like GridSearchCV and RandomizedSearchCV to optimize model parameters. Analyze the results to select the best-performing model.
+**Resources**:
+
+* [GridSearchCV and RandomizedSearchCV Explained](https://www.kdnuggets.com/hyperparameter-tuning-gridsearchcv-and-randomizedsearchcv-explained)
+
+---
+
+---
+
+## 📅 Week 7 – SQL Basics
+
+### 🔹 Topics Covered
+
+* [Installation of SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+* [Introduction to SQL](https://www.w3schools.com/sql/sql_intro.asp)
+* [Getting started with SQL Server](https://www.sqlservertutorial.net/getting-started/)
+* [Overview of DDL, DML & TCL Commands](https://www.geeksforgeeks.org/sql/sql-ddl-dql-dml-dcl-tcl-commands/)
+* [DDL SQL Server](https://www.sqlservertutorial.net/sql-server-basics/)
+
+---
+
+### 📘 Assignment:
+
+**Deploying Machine Learning Models with Streamlit**
+
+Develop a web application using Streamlit to deploy a trained machine learning model. The app should allow users to input data, receive predictions, and understand model outputs through visualizations. This task will help you learn how to make your models accessible and interactive.
+**Resources**:
+
+* [Streamlit Docs](https://docs.streamlit.io/)
+* [Deploy ML Models with Streamlit – Guide](https://machinelearningmastery.com/how-to-quickly-deploy-machine-learning-models-streamlit/)
+
+---
+
+---
+
+## 📅 Week 8 – Generative AI
+
+### 🔹 Topics Covered
+
+* [What is Generative AI](https://www.ibm.com/think/topics/generative-ai)
+* [Foundation Models](https://huggingface.co/learn/llm-course/chapter1/1)
+* [Understanding LLMs](https://www.geeksforgeeks.org/artificial-intelligence/large-language-model-llm/)
+* [Prompt Engineering](https://www.promptingguide.ai/)
+* [LangChain Introduction](https://python.langchain.com/docs/introduction/)
+* [Agents and Chains](https://dev.to/jamesbmour/part-3-building-powerful-chains-and-agents-in-langchain-5g04)
+* [What is RAG](https://www.pinecone.io/learn/retrieval-augmented-generation/)
+* [Implementing RAG with LangChain](https://python.langchain.com/docs/tutorials/rag/)
+* [Fine-tuning LLMs](https://huggingface.co/docs/transformers/training)
+* [Vector Databases](https://docs.pinecone.io/guides/get-started/quickstart)
+
+---
+
+### 📘 Assignment:
+
+**RAG Q\&A chatbot**
+
+RAG Q\&A chatbot using document retrieval and generative AI for intelligent response generation (can use any light model from hugging face or a license llm (openai, claude, grok, gemini) if free credits available
+**Resources**:
+
+* [Kaggle: Loan Approval Prediction Dataset](https://www.kaggle.com/datasets/sonalisingh1411/loan-approval-prediction?select=Training+Dataset.csv)
+
+---
