@@ -24,10 +24,18 @@ This repository contains weekly Data Science assignments completed during my int
 
 ## 🛠 Tech Stack
 
-- Python
-- Jupyter Notebook
-- 🔜
+* Python
+* Jupyter Notebook
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Scikit-learn
+* Streamlit
+* LangChain
+* RAG (Retrieval-Augmented Generation)
 
 ---
+
 
 > 🚀 *Grateful to be learning and applying real-world data science skills through this internship.*
