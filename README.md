@@ -8,16 +8,16 @@ This repository contains weekly Data Science assignments completed during my int
 
 ## 📁 Weekly Assignment Progress
 
-| Week        | Title                         | Status   |
-|-------------|-------------------------------|----------|
-| Week 1      |                               | ✅ Done  |
-| Week 2      |                               | ✅ Done  |
-| Week 3      |                               | ✅ Done  |
-| Week 4      |                               | 🔜       |
-| Week 5      |                               | 🔜       |
-| Week 6      |                               | 🔜       |
-| Week 7      |                               | 🔜       |
-| Week 8      |                               | 🔜       |
+| Week   | Assignment                                       | Status |
+| ------ | ------------------------------------------------ | ------ |
+| Week 1 | Print the Triangle pattern                       | ✅ Done |
+| Week 2 | Implement a Linked List and Delete the Nth Node  | ✅ Done |
+| Week 3 | Data Visualization                               | ✅ Done |
+| Week 4 | Exploratory Data Analysis (EDA)                  | ✅ Done |
+| Week 5 | House Price Prediction                           | ✅ Done |
+| Week 6 | Model Evaluation and Hyperparameter Tuning       | ✅ Done |
+| Week 7 | Deploying Machine Learning Models with Streamlit | ✅ Done |
+| Week 8 | RAG Q\&A chatbot                                 | ✅ Done |
 
 ---
 
