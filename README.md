@@ -8,7 +8,7 @@ This repository contains weekly Data Science assignments completed during my int
 
 ## 📁 Weekly Assignment Progress
 
-| Week   | Assignment                                       | Status |
+| Week   | Title                                       | Status |
 | ------ | ------------------------------------------------ | ------ |
 | Week 1 | Print the Triangle pattern                       | ✅ Done |
 | Week 2 | Implement a Linked List and Delete the Nth Node  | ✅ Done |
